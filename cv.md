@@ -11,7 +11,7 @@ I study in BSUIR, watching online lectures (MIT OpenCourseWare, SimpleCode), pro
 #English 
 Approximately B1, have a practice with native speakers.
 # How to contact me?  
-* [Vk!](https://vk.com/id236178825)    
+* [Vk](https://vk.com/id236178825)    
 * [Telegram](https://t.me/anzhelika_smirnova) 
 * [Instagram](http://instagram.com/anzhelika__smirnova) 
 * [E-mail](smirnova.lika.23092001@gmail.com)
