@@ -7,8 +7,8 @@ Knowledge of C++,HTML,CSS,JS,OOP base,algorithms.
 # Experience   
 Labs in University, [codewars](https://www.codewars.com/users/Jelika1), tasks from past trainings etc.
 # Education  
-I study in BSUIR, watching online lectures (MIT OpenCourseWare, SimpleCode), programming literature. 
-#English 
+I study in BSUIR, watching online lectures (MIT OpenCourseWare, SimpleCode), programming literature.  
+# English 
 Approximately B1, have a practice with native speakers.
 # How to contact me?  
 * [Vk](https://vk.com/id236178825)    
