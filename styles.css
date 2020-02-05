@@ -47,7 +47,7 @@
     display: flex;
     justify-content: space-between;
   }
-  
+
   main {
     justify-content: center;
     display: flex;
@@ -60,7 +60,7 @@
   
   a {
     text-decoration: none;
-    color: initial;
+    color: rgba(50, 50, 65, 0.7);
   }
   
   a i {
@@ -68,9 +68,9 @@
   }
   
   .avatar {
-    width: 400px;
+    width: 300px;
     height: 300px;
-    margin-left: 213px;
+    margin-left: 233px;
   }
   
   .about-aside {
@@ -79,4 +79,17 @@
     width: 40%;
     float: left;
   }
+  .contacts ul {
+    display: flex;
+    justify-content: space-between;
+  }
   
+  .about-aside p, .about-aside h2, .contacts ul {
+    margin-top: 15px;
+  }
+  
+  .item {
+    margin-top: 20px;
+    border-bottom: 2px solid rgba(50, 50, 65, 0.7);
+    padding-bottom: 30px;
+  }
