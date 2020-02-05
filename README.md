@@ -1,1 +1,1 @@
-https://Jelika.github.io/rsschool-cv/cv
+https://Jelika.github.io/rsschool-cv/index
