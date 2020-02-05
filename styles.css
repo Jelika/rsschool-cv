@@ -47,3 +47,36 @@
     display: flex;
     justify-content: space-between;
   }
+  
+  main {
+    justify-content: center;
+    display: flex;
+    margin-top: 4%;
+  }
+  
+  .content {
+    max-width: 1024px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: initial;
+  }
+  
+  a i {
+    font-size: 30px;
+  }
+  
+  .avatar {
+    width: 400px;
+    height: 300px;
+    margin-left: 213px;
+  }
+  
+  .about-aside {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    float: left;
+  }
+  
