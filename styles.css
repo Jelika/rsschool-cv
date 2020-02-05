@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    width: 100%;
+    list-style-type: none;
+  }
+  
+  .header-icon {
+    display: flex;
+    flex: 20%;
+    padding-top: 0.85%;
+    padding-left: 1.5%;
+  }
+  
+  .menu {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    flex-basis: 70%;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(50, 50, 65);
+    border-bottom: 5px solid #5757a0;
+  }
+  
+  .menu li {
+    display: inline;
+  }
+  
+  header {
+    position: fixed;
+    color: white;
+    top: 0;
+    right: 0;
+    background-color: rgb(50, 50, 65);
+  }
+  
+  .header-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  main {
+    justify-content: center;
+    display: flex;
+    margin-top: 4%;
+  }
+  
+  .content {
+    max-width: 1024px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgba(50, 50, 65, 0.7);
+  }
+  
+  a i {
+    font-size: 30px;
+  }
+  
+  .avatar {
+    width: 300px;
+    height: 300px;
+    margin-left: 233px;
+  }
+  
+  .about-aside {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    float: left;
+  }
+  .contacts ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .about-aside p, .about-aside h2, .contacts ul {
+    margin-top: 15px;
+  }
+  
+  .item {
+    margin-top: 20px;
+    border-bottom: 2px solid rgba(50, 50, 65, 0.7);
+    padding-bottom: 30px;
+  }
